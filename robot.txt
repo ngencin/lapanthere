@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-sitemap:
+sitemap: https://ngencin.github.io/lapanthere/sitemap.xml
