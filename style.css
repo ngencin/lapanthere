@@ -347,13 +347,14 @@ a:hover {
 }
 
 .header_contact h1{
-    color: #fff!important;
+    color: #472615!important;
     font-weight: bold;
+    font-size: 2em;
     text-transform: uppercase;
 }
 .header_contact p{
-    color: #fff!important;
-    font-size: 1em;
+    color: #472615!important;
+    font-size: 1.2em;
 }
 
 .contact_informations p{
