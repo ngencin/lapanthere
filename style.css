@@ -805,7 +805,9 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
 }
-
+.portfolio-row img{
+    width: 100%;
+}
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
